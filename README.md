@@ -1,1 +1,1 @@
-# Boreal_Release
+# Boreal - Articulations Control in Logic Made Easy
